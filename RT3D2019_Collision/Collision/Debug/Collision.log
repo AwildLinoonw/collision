@@ -1,0 +1,13 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\b6032792\Downloads\RT3D2019_Collision\Collision\ExampleShader.o
+  HeightMap.cpp
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(416): warning C4100: 'v0': unreferenced formal parameter
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(752): warning C4101: 'sD': unreferenced local variable
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(751): warning C4101: 'sVec1': unreferenced local variable
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(751): warning C4101: 'sVec0': unreferenced local variable
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(751): warning C4101: 'sNormN': unreferenced local variable
+c:\users\b6032792\downloads\rt3d2019_collision\collision\heightmap.cpp(752): warning C4101: 'sNumer': unreferenced local variable
+  Collision.vcxproj -> C:\Users\b6032792\Downloads\RT3D2019_Collision\Debug\Collision.exe
